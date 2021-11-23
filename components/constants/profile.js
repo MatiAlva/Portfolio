@@ -4,8 +4,8 @@ export const projects = [
         description: "Mi portafolio.",
         image: "Portfolio.png",
         Alt: "Imagen de mi sitio, donde muestro mi portafolio.",
-        codigo: '',
-        sitio: ''
+        codigo: 'https://github.com/MatiAlva/Portfolio.git',
+        sitio: 'https://matidev-r01n6c873-matialva.vercel.app/'
     },
     {
         title: "Search Movies",
