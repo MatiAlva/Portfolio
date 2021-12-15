@@ -47,7 +47,7 @@ const AboutMe = () => {
                     <BtnPrimaryLinkMd href="mailto:matidev4@gmail.com" fullWidthSm>
                       Escríbeme <MdEmail/>
                     </BtnPrimaryLinkMd>
-                    <BtnSecondaryMd href="/Alvarez-Matias-Currículum .pdf" download>
+                    <BtnSecondaryMd href="/Curriculum Alvarez Matias.pdf" download>
                       Descargar CV <MdCloudDownload/>
                     </BtnSecondaryMd>
                   </ButtonContainer>
