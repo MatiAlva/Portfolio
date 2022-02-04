@@ -1,5 +1,21 @@
 export const projects = [
     {
+        title: "Clima App",
+        description: "Una aplicacion de clima de lo cual obtengo informacion consumiendo una API",
+        image: "ClimaApp.png",
+        Alt: "Imagen de la App de clima",
+        codigo: 'https://github.com/MatiAlva/ClimaApp',
+        sitio: 'https://climaa-app.netlify.app/'
+    },
+    {
+        title: "Rick and Morty",
+        description: "Una aplicacion de busqueda de personajes de la seria Rick and Morty de lo cual consumo una API",
+        image: "RickAndMorty.png",
+        Alt: "Imagen de la App de Rick and Morty",
+        codigo: 'https://github.com/MatiAlva/Rick-and-Morty',
+        sitio: 'https://app-rick-y-morty.netlify.app'
+    },
+    {
         title: "Portafolio",
         description: "Mi portafolio.",
         image: "Portfolio.png",
@@ -20,8 +36,7 @@ export const projects = [
         description: "Para visualizar mas de mis proyectos personales puede visitar mi repositorio de Github.",
         image: "Github.png",
         Alt: "Imagen de Github, donde se encuentra todos mis proyectos",
-        tecnologias: '',
         codigo: 'https://github.com/MatiAlva',
         sitio: 'https://github.com/MatiAlva'
-    }
+    },
 ]
