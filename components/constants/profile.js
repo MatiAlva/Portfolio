@@ -1,7 +1,7 @@
 export const projects = [
     {
         title: "Momentium Clone",
-        description: "Clone de Momentium de lo cual la informacion se consume desde una API",
+        description: "Clon de Momentium de lo cual la informacion se consume desde una API",
         image: "Momentium.png",
         Alt: "Imagen de Clone de Momentium",
         codigo: 'https://github.com/MatiAlva/Momentium',
