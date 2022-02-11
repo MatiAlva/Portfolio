@@ -15,6 +15,14 @@ export const projects = [
         codigo: 'https://github.com/MatiAlva/ClimaApp',
         sitio: 'https://climaa-app.netlify.app/'
     },
+     {
+        title: "Memory Game",
+        description: "Juego de Memoria realizado en React",
+        image: "MemoryGame.png",
+        Alt: "Imagen de la App de Memoria",
+        codigo: 'https://github.com/MatiAlva/Memory-Game',
+        sitio: 'https://memoria-game.netlify.app/'
+    },
     {
         title: "Rick and Morty",
         description: "Una aplicacion de busqueda de personajes de la seria Rick and Morty de lo cual consumo una API",
